@@ -1,6 +1,7 @@
 /* Global rules */
 
 @import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Spectral:wght@200&display=swap');
 
 html {
     background-color: lightgray;
@@ -20,6 +21,10 @@ h1 {
     background: #fff;
     line-height: 2.5em;
 }
+h1.page-header{
+    font-family: 'Spectral', serif;
+}
+
 
 main.wrapper {
     background-color: white;
