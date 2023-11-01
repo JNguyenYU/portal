@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Spectral:wght@200&display=swap');
 
 html {
-    background-color: lightgray;
+    background-color:#D8CFD0;
     font-family: 'Quicksand', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -23,6 +23,11 @@ h1 {
 }
 h1.page-header{
     font-family: 'Spectral', serif;
+    background-color:#697184;
+    color: white;
+}
+p {
+    margin: 1em;
 }
 
 
